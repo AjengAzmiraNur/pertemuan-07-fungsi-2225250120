@@ -1,7 +1,7 @@
-# pertemuan-07-fungsi-2225250120
+# Pertemuan-07-Fungsi Python
 
 **Nama:** Ajeng Azmira Nur  
-**NIM:** 2225250120
+**NIM:** 2225250120  
 **Kelas:** 3E  
 **Mata Kuliah:** Algoritma dan Pemrograman
 
